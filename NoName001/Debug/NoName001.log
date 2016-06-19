@@ -1,0 +1,42 @@
+﻿生成启动时间为 2016/6/14 星期二 下午 5:15:09。
+     1>项目“E:\Work\code\NoName001\NoName001\NoName001.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\NoName001.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\NoName001.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt NoName001Dlg.cpp
+         NoName001Dlg.cpp
+     1>e:\work\code\noname001\noname001\noname001dlg.cpp(197): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\work\code\noname001\noname001\noname001dlg.cpp(198): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\work\code\noname001\noname001\noname001dlg.cpp(199): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\work\code\noname001\noname001\noname001dlg.cpp(200): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\work\code\noname001\noname001\noname001dlg.cpp(232): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\work\code\noname001\noname001\noname001dlg.cpp(233): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\work\code\noname001\noname001\noname001dlg.cpp(234): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\work\code\noname001\noname001\noname001dlg.cpp(235): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Work\code\NoName001\Debug\NoName001.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\NoName001.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Work\code\NoName001\Debug\NoName001.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Work\code\NoName001\Debug\NoName001.lib" /MACHINE:X86 Debug\NoName001.res
+         Debug\NoName001.exe.embed.manifest.res
+         Debug\DrawRadarView.obj
+         Debug\MainView.obj
+         Debug\NoName001.obj
+         Debug\NoName001Dlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\NoName001.exe.embed.manifest" /manifest Debug\NoName001.exe.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         NoName001.vcxproj -> E:\Work\code\NoName001\Debug\NoName001.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\NoName001.unsuccessfulbuild”。
+         正在对“Debug\NoName001.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Work\code\NoName001\NoName001\NoName001.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67
